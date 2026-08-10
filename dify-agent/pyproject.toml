@@ -19,7 +19,7 @@ server = [
     "pydantic-ai-slim[anthropic,google,openai]>=1.85.1",
     "pydantic-settings>=2.12.0",
     "redis>=5",
-    "uvicorn[standard]>=0.38.0",
+    "uvicorn[standard]>=0.52.1",
 ]
 
 [tool.setuptools.packages.find]
